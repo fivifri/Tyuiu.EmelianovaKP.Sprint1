@@ -16,7 +16,7 @@ namespace Tyuiu.EmelianovaKP.Sprint1.Task6.V13
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Организация ввода\\вывода в консольных приложениях                *");
+            Console.WriteLine("* Тема: Работа со строками класс String                                   *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #13                                                             *");
             Console.WriteLine("* Выполнил: Емельянова К. П. | ПКТб-23-1                                  *");

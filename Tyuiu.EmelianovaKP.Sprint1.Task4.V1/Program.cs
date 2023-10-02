@@ -12,11 +12,11 @@ namespace Tyuiu.EmelianovaKP.Sprint1.Task4.V1
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #0 | Выполнил: Емельянова К. П. | ПКТб-23-1";
+            Console.Title = "Спринт #1 | Выполнил: Емельянова К. П. | ПКТб-23-1";
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Организация ввода\\вывода в консольных приложениях                *");
+            Console.WriteLine("* Тема: Class Math                                                        *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #1                                                              *");
             Console.WriteLine("* Выполнил: Емельянова К. П. | ПКТб-23-1                                  *");

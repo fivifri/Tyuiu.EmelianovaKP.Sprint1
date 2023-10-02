@@ -13,7 +13,7 @@ namespace Tyuiu.EmelianovaKP.Sprint1.Task1.V17
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #0 | Выполнил: Емельянова К. П. | ПКТб-23-1";
+            Console.Title = "Спринт #1 | Выполнил: Емельянова К. П. | ПКТб-23-1";
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
